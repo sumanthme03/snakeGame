@@ -8,6 +8,7 @@ Snake game sample code provided by udacity .the additonal features are built and
 to provide an entirely different game :
 
 Instructions on how to build the project
+
     - Clone this repo
     - create a new directory called "build"
     - in build run "cmake .."
