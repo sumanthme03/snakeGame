@@ -5,7 +5,7 @@ CPPND: Capstone Snake Game Project
 
 The following project is an extension and improvemnets to the 
 Snake game sample code provided by udacity .the additonal features are built and used 
-to provide an entirely different game :
+to provide an entirely different game (two food peices rendered ,requests user the choice to save score) :
 
 Instructions on how to build the project
 
